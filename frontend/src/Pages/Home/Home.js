@@ -41,6 +41,11 @@ const Home = () => {
   </div>
 
   </section>
+  <section className='banner3'>
+  <div className='abouts'>
+  <div className='content2'></div>
+ </div>
+ </section>
   </>
  );
 }
